@@ -1,0 +1,4 @@
+pyrogram==2.1.2
+tgcrypto
+apscheduler
+pytz
